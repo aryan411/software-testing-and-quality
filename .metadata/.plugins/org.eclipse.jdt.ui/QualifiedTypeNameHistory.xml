@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.cc.airline.ticketing.SeatingPlan"/>
+    <fullyQualifiedTypeName name="junit.framework.Assert"/>
+    <fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="org.junit.Before"/>
+    <fullyQualifiedTypeName name="org.junit.After"/>
+    <fullyQualifiedTypeName name="com.cc.airline.ticketing.SeatingClass"/>
+    <fullyQualifiedTypeName name="com.cc.airline.passengers.Passenger"/>
+    <fullyQualifiedTypeName name="com.cc.airline.passengers.PassengerName"/>
+    <fullyQualifiedTypeName name="com.cc.airline.passengers.StaffPassenger"/>
+    <fullyQualifiedTypeName name="org.junit.BeforeClass"/>
+    <fullyQualifiedTypeName name="org.junit.AfterClass"/>
+    <fullyQualifiedTypeName name="com.cc.airline.ticketing.Seat"/>
+    <fullyQualifiedTypeName name="com.cc.airline.ticketing.Ticket"/>
+</qualifiedTypeNameHistroy>

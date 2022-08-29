@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ZipFile"/>
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.jdt.internal.ui.jarpackager.JarPackageWizard"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.jdt.ui.Java"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+		<item key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="D:\Upwork Clients\New folder\helperapp.jar"/>
+			<item value="D:\Centennial college\sem 2\Software testing and quality\Aryan_Patel_COMP311_Assignment6.jar"/>
+			<item value="D:\Centennial college\sem 2\Software testing and quality\Dixit_Hihoriya_COMP311_Assignment6.jar"/>
+			<item value="C:\Users\aryan\Downloads\AirTicketJUnit.jar"/>
+			<item value="C:\Users\aryan\Downloads\Dixit_Hihoriya_Assignment6\Dixit_Hihoriya_Assignment6.jar"/>
+		</list>
+	</section>
+</section>
